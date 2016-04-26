@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SimpleController"
+  id="myeclipse.1451011945180"
+  context-root="/SimpleController"
+  j2ee-spec="5.0"
+  archive="SimpleController.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
